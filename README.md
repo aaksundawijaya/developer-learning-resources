@@ -1,5 +1,7 @@
 # Developer Learning Resources Directory
 
+
+## Java Basics
 ## Kotlin Android
 <table>
   <tr>
@@ -37,8 +39,43 @@
      <td>Free</td>
   </tr>
 </table>
+## Kotlin Android
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/80">Memulai Pemrograman Dengan Kotlin</a></td>
+     <td>Beginner</td>
+     <td>Indonesia</td>
+     <td>Free</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.dicoding.com/academies/55">Kotlin Android Developer Expert</a></td>
+     <td>Expert</td>
+     <td>Indonesia</td>
+     <td>Premium</td>
+  </tr>
+</table>
 
-## Java Basics
+## Java Android
+<table>
+  <tr>
+    <th>Resource Name</th>
+     <th>Level</th>
+     <th>Language</th>
+     <th>Free/Premium?</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.udacity.com/course/android-basics-user-interface--ud834">Android Basics: User Interface</a></td>
+     <td>Beginner</td>
+     <td>English</td>
+     <td>Free</td>
+  </tr>
+</table>
 <table>
   <tr>
     <th>Resource Name</th>
